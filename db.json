@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Rửa mặt",
+      "time": "6:30",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Nấu cơm",
+      "time": "6:45",
+      "reminder": false
+    },
+    {
+      "text": "Đi làm",
+      "time": "7:30",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Ăn Cơm",
+      "time": "12:00",
+      "id": 4,
+      "reminder": true
+    }
+  ]
+}
